@@ -1,11 +1,7 @@
 
 ---
 layout: default
-<<<<<<< HEAD
-title: <Gavin Sneyd> - Portfolio
-=======
 title: Gavin Sneyd - Portfolio
->>>>>>> d7431c5 (<Commit Edit>)
 permalink: /projects/
 ---
 
