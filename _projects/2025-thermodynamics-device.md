@@ -12,13 +12,13 @@ image: "/assets/images/Jet-engine.webp"
 published: true
 ---
 
-![Primary view]({{ "/assets/images/J85_ge_17a_turbojet_engine-scaled-1.jpg" | relative_url }})
+<img src="{{ "/assets/images/J85_ge_17a_turbojet_engine-scaled-1.jpg" | relative_url }}" alt="Primary view" style="max-width:60%; height:auto;" />
 
 ## Project: Turbojet Engine Analysis
 
 This project focuses on understanding and modeling the operation of a turbojet engine as a thermodynamic device. The goal was to analyze the energy conversion processes involved, from air intake to exhaust, and evaluate the performance of the engine in terms of thrust and efficiency.
 
-![Alternate view]({{ "/assets/images/bd7dde29-0c55-4330-a15a-865d2dda9064.png" | relative_url }})
+<img src="{{ "/assets/images/bd7dde29-0c55-4330-a15a-865d2dda9064.png" | relative_url }}" alt="Alternate view" style="max-width:60%; height:auto;" />
 
 ## Project Description
 
@@ -30,7 +30,7 @@ Turbojet engines are a class of air-breathing jet engines widely used in aviatio
 
 The project began with a literature review of turbojet operation and the Brayton cycle. A 1D computational model of the engine was created using MATLAB, incorporating components such as the compressor, combustion chamber, turbine, and nozzle. Key parameters, including air mass flow rate, combustion temperature, and pressure ratios, were varied to evaluate their effect on thrust and thermal efficiency. Flow diagrams and thermodynamic state plots were generated to visualize energy conversion across the engine components. SolidWorks was used to design simplified schematics of the engine for illustration.
 
-![Alternate view]({{ "/assets/images/Turbjet_Press_temps.png" | relative_url }})
+<img src="{{ "/assets/images/Turbjet_Press_temps.png" | relative_url }}" alt="Alternate view" style="max-width:60%; height:auto;" />
 
 ## Results
 
