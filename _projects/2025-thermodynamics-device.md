@@ -2,36 +2,36 @@
 layout: project
 title: Turbojet Engine Analysis
 description: A project analyzing the thermodynamic principles and performance of turbojet engines, focusing on energy conversion and efficiency.
-technologies: [Thermodynamics, Fluid Mechanics, MATLAB, SolidWorks]
-image: /assets/images/turbojet-engine.jpg
+technologies: [MATLAB, SolidWorks, Google]
+image: "/assets/images/J85_ge_17a_turbojet_engine-scaled-1.jpg"
 published: true
 ---
 
-![Primary view](/assets/images/J85_ge_17a_turbojet_engine-scaled-1.jpg)
+![Primary view]({{ "/assets/images/J85_ge_17a_turbojet_engine-scaled-1.jpg" | relative_url }})
 
 ## Project: Turbojet Engine Analysis
 
 This project focuses on understanding and modeling the operation of a turbojet engine as a thermodynamic device. The goal was to analyze the energy conversion processes involved, from air intake to exhaust, and evaluate the performance of the engine in terms of thrust and efficiency.
 
-![Alternate view](/assets/images/bd7dde29-0c55-4330-a15a-865d2dda9064.png)
+![Alternate view]({{ "/assets/images/bd7dde29-0c55-4330-a15a-865d2dda9064.png" | relative_url }})
 
 ## Project Description
 
 Turbojet engines are a class of air-breathing jet engines widely used in aviation. They operate by drawing in air, compressing it, mixing it with fuel, and igniting the mixture to produce high-velocity exhaust gases that generate thrust. The main challenge in turbojet design is maximizing thrust while maintaining fuel efficiency, which involves optimizing the compression ratio, turbine efficiency, and nozzle design. This project models these processes using idealized thermodynamic cycles and computational simulations.
 
-![Primary view](/assets/images/800px-Jet_engine.svg.webp)
+![Primary view]({{ "/assets/images/800px-Jet_engine.svg.webp" | relative_url }})
 
 ## Approach
 
 The project began with a literature review of turbojet operation and the Brayton cycle. A 1D computational model of the engine was created using MATLAB, incorporating components such as the compressor, combustion chamber, turbine, and nozzle. Key parameters, including air mass flow rate, combustion temperature, and pressure ratios, were varied to evaluate their effect on thrust and thermal efficiency. Flow diagrams and thermodynamic state plots were generated to visualize energy conversion across the engine components. SolidWorks was used to design simplified schematics of the engine for illustration.
 
-![Alternate view](/assets/images/Turbjet_Press_temps.png)
+![Alternate view]({{ "/assets/images/Turbjet_Press_temps.png" | relative_url }})
 
 ## Results
 
 Simulation results show that increasing the compressor pressure ratio improves thermal efficiency but also increases turbine inlet temperature, requiring careful material considerations. The maximum calculated thrust at optimal operating conditions was consistent with theoretical predictions for a small turbojet engine. Performance plots highlight the relationship between fuel consumption, air mass flow, and engine thrust, demonstrating the trade-offs inherent in turbojet design.
 
-![Primary view](/assets/images/HS-graphic-1024x610.jpg)
+![Primary view]({{ "/assets/images/HS-graphic-1024x610.jpg" | relative_url }})
 
 ## Potential Modification
 
@@ -41,7 +41,7 @@ One potential modification to improve turbojet engine performance is the additio
 
 Through this project, the importance of balancing compression, combustion, and turbine efficiency became clear. The project reinforced the role of thermodynamic analysis in engine design and showed how simulation tools can predict performance before physical prototyping. It also emphasized the impact of heat management and component materials on overall efficiency.
 
-![Alternate view](/assets/images/Jet-engine.webp)
+![Alternate view]({{ "/assets/images/Jet-engine.webp" | relative_url }})
 
 ### References
 
