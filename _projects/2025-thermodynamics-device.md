@@ -4,6 +4,11 @@ title: Turbojet Engine Analysis
 description: A project analyzing the thermodynamic principles and performance of turbojet engines, focusing on energy conversion and efficiency.
 technologies: [MATLAB, SolidWorks, Google]
 image: "/assets/images/J85_ge_17a_turbojet_engine-scaled-1.jpg"
+image: "/assets/images/bd7dde29-0c55-4330-a15a-865d2dda9064.png"
+image: "/assets/images/800px-Jet_engine.svg.webp"
+image: "/assets/images/Turbjet_Press_temps.png"
+image: "/assets/images/HS-graphic-1024x610.jpg"
+image: "/assets/images/Jet-engine.webp"
 published: true
 ---
 
