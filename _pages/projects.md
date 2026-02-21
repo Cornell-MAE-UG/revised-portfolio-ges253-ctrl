@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Gavin Sneyd - Portfolio
+title: Benjamin Hur - Portfolio
 permalink: /projects/
 ---
 

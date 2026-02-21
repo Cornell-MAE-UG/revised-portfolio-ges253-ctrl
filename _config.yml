@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Gavin Sneyd
+title                    : Benjamin Hur
 title_separator          : "-"
-name                     : Gavin Sneyd
-description              : Gavin Sneyd - Projects and CV 
-baseurl                  : "/revised-portfolio-ges253-ctrl" # Set this to your repo name
+name                     : Benjamin Hur
+description              : Benjamin Hur - Projects and CV 
+baseurl                  : "/fa-2025-portfolio-BenHur210/" # Set this to your repo name
 
 # Theme and Style
 theme: jekyll-theme-minimal

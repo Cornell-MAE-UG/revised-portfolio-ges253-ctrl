@@ -1,16 +1,14 @@
 ---
 layout: default
-title: Gavin Sneyd
+title: Benjamin Hur
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/christmas-pfp.png" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am an aspiring mechanical engineer attending Cornell University. I was born in Toronto, Canada, and grew up in Westchester, New York. I have developed my engineering skills through classes and extracurriculars. In particular, my student-run project team, CUAir, has aided me in fostering strong problem-solving and organizational habits in the realm of engineering production and testing.
+My name is {{ site.name }}. As a design lead for my current project team, Cornell Steel Bridge, I have built a great familiarity with 3D CAD software such as Fusion 360 and Solidworks. In addition, I have increasingly familiarized myself with FEA software such as STAAD.Pro. In fact, one of my main goals for this year has been to work on a section-properties optimizer and trussing density optimizer with my fellow design leads. At Cornell Steel Bridge, we manufacture and weld all of our components in-house, and thus receive machining and welding training. Learning how to design with such welding and machining constraints in mind has been one of the most valuable parts of my journey.
 
-Aside from engineering, I enjoy learning about the spanish language, and plan to receive a minor in the study. I also grew up skiing every weekend in the winters, and am now involved in the executive board of the Cornell Ski Club as the events and development coordinator. Besides that, some of my other hobbies include playing chess, listening to music, working out, and playing with my dog.
-
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ '/projects/' | relative_url }}">my projects</a> and <a href="{{ '/cv/' | relative_url }}">my CV</a>.
