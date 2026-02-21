@@ -12,7 +12,7 @@ title                    : Benjamin Hur
 title_separator          : "-"
 name                     : Benjamin Hur
 description              : Benjamin Hur - Projects and CV 
-baseurl                  : "/fa-2025-portfolio-BenHur210/" # Set this to your repo name
+baseurl                  : "/revised-portfolio-ges253-ctrl/" # Set this to your repo name
 
 # Theme and Style
 theme: jekyll-theme-minimal
